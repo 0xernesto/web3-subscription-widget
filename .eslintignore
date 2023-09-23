@@ -1,0 +1,9 @@
+/out/
+/build
+/node_modules
+/dist
+/dts
+.DS_Store
+.env.local
+.env.example
+.env.test
