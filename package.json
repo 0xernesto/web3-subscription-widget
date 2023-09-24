@@ -2,6 +2,9 @@
 	"name": "@0xernesto/web3-subscription-widget",
 	"version": "1.0.0",
 	"description": "A React library to facilitate integration with Unlock Protocol subscriptions.",
+	"files": [
+		"dist/"
+	],
 	"main": "dist/cjs/index.js",
 	"module": "dist/esm/index.js",
 	"types": "dist/index.d.ts",
