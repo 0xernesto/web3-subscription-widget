@@ -7,3 +7,4 @@
 .env.local
 .env.example
 .env.test
+CHANGELOG.md

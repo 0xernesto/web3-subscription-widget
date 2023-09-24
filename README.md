@@ -97,11 +97,11 @@ Below are screenshots of a Next.js 13 app that uses the `SubscriptionWidget` com
 
 ## ![app_example_disconnected](https://github.com/0xernesto/web3-subscription-widget/blob/main/demo/disconnectedWallet.png)
 
-### <p align="center">Figure 1: `MyWiSubscriptionWidgetdget` when wallet is disconnected.</p>
+### <p align="center">Figure 1: `SubscriptionWidget` when wallet is disconnected.</p>
 
 ## ![app_example_disconnected](https://github.com/0xernesto/web3-subscription-widget/blob/main/demo/connectedWallet.png)
 
-### <p align="center">Figure 2: `MyWiSubscriptionWidgetdget` when wallet is connected.</p>
+### <p align="center">Figure 2: `SubscriptionWidget` when wallet is connected.</p>
 
 ## Contributing
 
