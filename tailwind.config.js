@@ -9,12 +9,6 @@ module.exports = {
 			lg: "1024px",
 			xl: "1280px",
 		},
-		extend: {
-			colors: {
-				"red-accent": "#CC4545",
-				"green-accent": "#47a66f",
-			},
-		},
 	},
 	plugins: [],
 };

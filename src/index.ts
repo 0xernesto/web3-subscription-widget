@@ -1,3 +1,3 @@
-import { CheckoutWidget } from "components/CheckoutWidget";
+import { SubscriptionWidget } from "components/SubscriptionWidget";
 
-export { CheckoutWidget };
+export { SubscriptionWidget };

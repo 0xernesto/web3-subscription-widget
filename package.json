@@ -7,12 +7,10 @@
 	"types": "dist/index.d.ts",
 	"scripts": {
 		"build": "NODE_ENV=production rollup -c",
-		"clean": "rimraf dist",
 		"commit": "git-cz",
 		"format": "prettier --write .",
 		"format:check": "prettier --check .",
 		"lint:check": "eslint . --ext .js,.jsx,.ts,.tsx",
-		"prebuild": "npm run clean",
 		"prepare": "husky install",
 		"release": "semantic-release --branches main",
 		"test": "jest --coverage",

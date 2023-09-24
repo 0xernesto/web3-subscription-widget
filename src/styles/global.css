@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ******************************************************** */
+/* NOTE: Default theme is defined in src/context/theme.tsx  */
+/* ******************************************************** */
