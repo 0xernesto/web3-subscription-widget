@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/0xernesto/web3-subscription-widget/compare/v1.0.1...v1.0.2) (2023-09-24)
+
+
+### Bug Fixes
+
+* force patch ([f4e031c](https://github.com/0xernesto/web3-subscription-widget/commit/f4e031c8a9084a2a380717d9731b7f00a44dea38))
+
 ## [1.0.1](https://github.com/0xernesto/web3-subscription-widget/compare/v1.0.0...v1.0.1) (2023-09-24)
 
 
