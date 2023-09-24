@@ -134,7 +134,7 @@ function Subscription({ lockConfig, maxWidth }: ISubscription) {
 							className="text-lg font-bold opacity-90 duration-300 ease-in-out hover:opacity-100"
 							onClick={() => setSuccessMessage("")}
 						>
-							Ok
+							OK
 						</button>
 					</div>
 				) : (

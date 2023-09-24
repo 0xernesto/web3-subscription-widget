@@ -7,19 +7,16 @@
 
 # 1.0.0 (2023-09-24)
 
-
 ### Bug Fixes
 
-* move github actions files to workflows directory ([75c7f81](https://github.com/0xernesto/web3-subscription-widget/commit/75c7f81fd7ebac95564d49505ef17d469ce3d394))
-* specify files in package.json to remove extra files from package ([2b98b28](https://github.com/0xernesto/web3-subscription-widget/commit/2b98b285898905390186c3a9cc02a339a117bc14))
-
+-   move github actions files to workflows directory ([75c7f81](https://github.com/0xernesto/web3-subscription-widget/commit/75c7f81fd7ebac95564d49505ef17d469ce3d394))
+-   specify files in package.json to remove extra files from package ([2b98b28](https://github.com/0xernesto/web3-subscription-widget/commit/2b98b285898905390186c3a9cc02a339a117bc14))
 
 ### Features
 
-* add initial subscription and and cancel functionality ([3714a69](https://github.com/0xernesto/web3-subscription-widget/commit/3714a6913b7c33147d9af3d80847b18a0904e032))
-
+-   add initial subscription and and cancel functionality ([3714a69](https://github.com/0xernesto/web3-subscription-widget/commit/3714a6913b7c33147d9af3d80847b18a0904e032))
 
 ### BREAKING CHANGES
 
-* the "files" property was not specified in the package.json, which caused the entire
-project to be published, instead of just the dist/ directory.
+-   the "files" property was not specified in the package.json, which caused the entire
+    project to be published, instead of just the dist/ directory.
