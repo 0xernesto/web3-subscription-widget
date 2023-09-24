@@ -24,17 +24,17 @@ yarn add @0xernesto/web3-subscription-widget
 
 ## Required Configuration
 
-| Property    | Description                                                        |
-| ----------- | ------------------------------------------------------------------ |
-| `rpcUrlMap` | Mapping of EVM JSON-RPC endpoint URL strings, indexed by chain ID. |
+| Property     | Description                                                        |
+| ------------ | ------------------------------------------------------------------ |
+| `rpcUrlMap`  | Mapping of EVM JSON-RPC endpoint URL strings, indexed by chain ID. |
+| `lockConfig` | Object of properties corresponding to subscription "Lock".         |
 
 ## Optional Configuration
 
-| Property     | Description                                                |
-| ------------ | ---------------------------------------------------------- |
-| `theme`      | Object of properties to set custom styling.                |
-| `maxWidth`   | Number to define custom width, in pixels.                  |
-| `lockConfig` | Object of properties corresponding to subscription "Lock". |
+| Property   | Description                                 |
+| ---------- | ------------------------------------------- |
+| `theme`    | Object of properties to set custom styling. |
+| `maxWidth` | Number to define custom width, in pixels.   |
 
 ## Usage Example
 
