@@ -4,9 +4,11 @@
 
 ## Overview
 
-The `@0xernesto/web3-subscription-widget` is a React library to facilitate integration with [Unlock Protocol](https://unlock-protocol.com/) subscriptions.
+The [@0xernesto/web3-subscription-widget](https://www.npmjs.com/package/@0xernesto/web3-subscription-widget) is a React library to facilitate integration with [Unlock Protocol](https://unlock-protocol.com/) subscriptions.
 
 This project was built during the 2023 ETHGlobal New York hackathon.
+
+The [web3-sub-application](https://github.com/0xernesto/web3-sub-application) is a NextJS app that implements the `SubscriptionWidget` component of the `@0xernesto/web3-subscription-widget` library.
 
 ## Installation
 
@@ -88,6 +90,18 @@ const YourAppComponent = () => {
 
 export default YourAppComponent;
 ```
+
+## Demo
+
+Below are screenshots of a Next.js 13 app that uses the `SubscriptionWidget` component.
+
+## ![app_example_disconnected](https://github.com/0xernesto/web3-subscription-widget/blob/main/demo/disconnectedWallet.png)
+
+### <p align="center">Figure 1: `MyWiSubscriptionWidgetdget` when wallet is disconnected.</p>
+
+## ![app_example_disconnected](https://github.com/0xernesto/web3-subscription-widget/blob/main/demo/connectedWallet.png)
+
+### <p align="center">Figure 2: `MyWiSubscriptionWidgetdget` when wallet is connected.</p>
 
 ## Contributing
 
