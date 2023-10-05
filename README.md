@@ -93,7 +93,7 @@ export default YourAppComponent;
 
 ## Demo
 
-Below are screenshots of a Next.js 13 app that uses the `SubscriptionWidget` component.
+Below are screenshots of a Next.js 13 app that uses the `SubscriptionWidget` component. Local testing of the widget can be done via [npm-link](https://docs.npmjs.com/cli/v9/commands/npm-link).
 
 ## ![app_example_disconnected](https://github.com/0xernesto/web3-subscription-widget/blob/main/demo/disconnectedWallet.png)
 
@@ -121,9 +121,9 @@ npm run commit
 
 This project is set up to publish the package via GitHub Actions after a push or merge to the `main` branch. The following is an example step-by-step process for publishing new releases.
 
-**NOTE:** `NPM_TOKEN` must be obtained from your npm account and added to the repo's GitHub Actions secrets. `WIDGETS_REPO_TOKEN` needs to be generated in your GitHub settings and added to the repo's GitHub Actions secrets. `GITHUB_TOKEN` is a special secret that is automatically created for the repo, so there is no need to explicitely define it anywhere.
+**NOTE:** `NPM_TOKEN` must be obtained from your npm account and added to the repo's GitHub Actions secrets. `WEB3_SUB_TOKEN` needs to be generated in your GitHub settings and added to the repo's GitHub Actions secrets. `GITHUB_TOKEN` is a special secret that is automatically created for the repo, so there is no need to explicitely define it anywhere.
 
-Ensure that only the following scopes are checked when creating `WIDGETS_REPO_TOKEN`:
+Ensure that only the following scopes are checked when creating `WEB3_SUB_TOKEN`:
 
 -   [x] repo
     -   [x] repo:status
