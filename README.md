@@ -1,10 +1,10 @@
 # Subscription Widget for Unlock Protocol
 
+![Static Badge](https://img.shields.io/badge/license-MIT-yellow)
+
 **This project was built during the [2023 ETHGlobal New York hackathon](https://ethglobal.com/showcase/unleashthelock-915uc).**
 
 **Won 🥇 Unlock Protocol — Most Inventive Use**
-
-![Static Badge](https://img.shields.io/badge/license-MIT-yellow)
 
 ## Overview
 
