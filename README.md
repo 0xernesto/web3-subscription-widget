@@ -1,12 +1,14 @@
 # Subscription Widget for Unlock Protocol
 
+**This project was built during the [2023 ETHGlobal New York hackathon](https://ethglobal.com/showcase/unleashthelock-915uc).**
+
+**Won 🥇 Unlock Protocol — Most Inventive Use**
+
 ![Static Badge](https://img.shields.io/badge/license-MIT-yellow)
 
 ## Overview
 
 The [@0xernesto/web3-subscription-widget](https://www.npmjs.com/package/@0xernesto/web3-subscription-widget) is a React library to facilitate integration with [Unlock Protocol](https://unlock-protocol.com/) subscriptions.
-
-This project was built during the 2023 ETHGlobal New York hackathon.
 
 The [web3-sub-application](https://github.com/0xernesto/web3-sub-application) is a NextJS app that implements the `SubscriptionWidget` component of the `@0xernesto/web3-subscription-widget` library.
 
